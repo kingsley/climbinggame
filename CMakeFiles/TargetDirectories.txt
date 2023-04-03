@@ -1,0 +1,3 @@
+/home/bafta/projects/me/climbinggame/CMakeFiles/cgame.dir
+/home/bafta/projects/me/climbinggame/CMakeFiles/edit_cache.dir
+/home/bafta/projects/me/climbinggame/CMakeFiles/rebuild_cache.dir

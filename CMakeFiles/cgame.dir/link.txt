@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cgame.dir/app/src/main.cpp.o CMakeFiles/cgame.dir/app/src/draw.cpp.o -o cgame  -lGL -lglfw -lGLEW 

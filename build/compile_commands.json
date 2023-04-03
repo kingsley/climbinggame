@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/bafta/projects/me/climbinggame/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/cgame.dir/app/src/main.cpp.o -c /home/bafta/projects/me/climbinggame/app/src/main.cpp",
+  "file": "/home/bafta/projects/me/climbinggame/app/src/main.cpp"
+},
+{
+  "directory": "/home/bafta/projects/me/climbinggame/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/cgame.dir/app/src/draw.cpp.o -c /home/bafta/projects/me/climbinggame/app/src/draw.cpp",
+  "file": "/home/bafta/projects/me/climbinggame/app/src/draw.cpp"
+}
+]
